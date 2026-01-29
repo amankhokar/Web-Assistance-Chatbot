@@ -1,0 +1,16 @@
+streamlit
+requests
+beautifulsoup4
+html2text
+validators
+
+chromadb
+sentence-transformers
+torch
+onnxruntime
+
+langchain
+langchain-community
+langchain-text-splitters
+
+python-dotenv
